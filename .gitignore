@@ -1,0 +1,9 @@
+
+.vs/
+obj/
+bin/
+packages/
+*.txt
+/Dependencies
+.claude/settings.local.json
+Data
